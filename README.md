@@ -16,7 +16,7 @@
 -   Advanced React techniques
 -   Performance optimization for full-stack applications
 
-## 🎯 Goals for 2023:
+## 🎯 Goals for 2024:
 
 -   To contribute to open source projects
 -   To build and deploy complete full-stack applications
