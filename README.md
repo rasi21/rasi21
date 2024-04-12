@@ -24,9 +24,8 @@
 
 ## 📫 How to Reach Me:
 
--   **GitHub**: [@YourGitHubUsername](https://github.com/YourGitHubUsername) _(Replace with your actual GitHub username)_
--   **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) _(Update with your LinkedIn profile link)_
--   **Email**: `youremail@example.com`
+-   **GitHub**: https://github.com/rasi21
+-   **Email**: `westbrooka1231@gmail.com`
 
 ## ⭐ Fun Fact:
 
